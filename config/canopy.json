@@ -1,0 +1,19 @@
+{
+  "collection": "https://iiif.bodleian.ox.ac.uk/iiif/collection/conservative-party",
+  "devCollection": "https://iiif.bodleian.ox.ac.uk/iiif/collection/conservative-party",
+  "featured": [
+    "https://iiif.bodleian.ox.ac.uk/iiif/manifest/07f7c9f1-ad33-4894-a7ed-e9faca725d85.json"
+  ],
+  "metadata": ["Date", "Subject"],
+  "label": { "none": ["Propaganda Posters"] },
+  "summary": {
+    "none": ["Election posters from the Archive of the Conservative Party."]
+  },
+  "theme": {
+    "defaultTheme": "light",
+    "accentColor": "yellow",
+    "grayColor": "jade",
+    "radius": "medium",
+    "scaling": "100%"
+  }
+}
